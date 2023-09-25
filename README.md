@@ -18,11 +18,10 @@ This will be the second part of your test at Punch before we get you started on 
 The codebase you will all be working on is a chrome extension, primary goal of the system is go grow your social media accounts in a similar fashion as a human; in order to avoid getting caught or raising any flags.
 
 Your aim is to:
-* 		Refactor the codebase
-* 		Implement MVVM or MVC architecture (Re-architect)
+* 		Implement MVC architecture (Re-architect)
 * 		Introduce class base structure (Master class and sub class structure (Inheritance))
-* 		Improve on the legacy functions
-* 		Remove code redundancy
+* 		DRY Principle
+* 		Refactor the codebase  (Improving legacy functions & removing code redundancy)
 
 You will have 5 working days to highlight the direction and progress.
 
